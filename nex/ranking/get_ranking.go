@@ -4,8 +4,8 @@ import (
 	"github.com/PretendoNetwork/nex-go"
 	"github.com/PretendoNetwork/nex-protocols-go/ranking"
 	ranking_types "github.com/PretendoNetwork/nex-protocols-go/ranking/types"
-	"github.com/RetendoNetwork/pikmin-3/database"
-	"github.com/RetendoNetwork/pikmin-3/globals"
+	"github.com/PretendoNetwork/pikmin-3/database"
+	"github.com/PretendoNetwork/pikmin-3/globals"
 )
 
 func GetRanking(err error, client *nex.Client, callID uint32, rankingMode uint8, category uint32, orderParam *ranking_types.RankingOrderParam, uniqueID uint64, principalID uint32) {
