@@ -5,7 +5,7 @@ import (
 	"os"
 
 	nex "github.com/PretendoNetwork/nex-go"
-	"github.com/RetendoNetwork/pikmin-3/globals"
+	"github.com/PretendoNetwork/pikmin-3/globals"
 )
 
 var serverBuildString string
