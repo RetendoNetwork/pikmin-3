@@ -2,8 +2,8 @@ package nex
 
 import (
 	"github.com/PretendoNetwork/nex-protocols-go/ranking"
-	"github.com/RetendoNetwork/pikmin-3/globals"
-	nex_ranking "github.com/RetendoNetwork/pikmin-3/nex/ranking"
+	"github.com/PretendoNetwork/pikmin-3/globals"
+	nex_ranking "github.com/PretendoNetwork/pikmin-3/nex/ranking"
 )
 
 func registerSecureServerNEXProtocols() {
