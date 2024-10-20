@@ -3,7 +3,7 @@ package main
 import (
 	"sync"
 
-	"github.com/PretendoNetwork/pikmin-3/nex"
+	"github.com/RetendoNetwork/pikmin-3/nex"
 )
 
 var wg sync.WaitGroup
