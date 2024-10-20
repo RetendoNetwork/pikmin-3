@@ -5,7 +5,7 @@ import (
 
 	nex "github.com/PretendoNetwork/nex-go"
 	ticket_granting "github.com/PretendoNetwork/nex-protocols-common-go/ticket-granting"
-	"github.com/PretendoNetwork/pikmin-3/globals"
+	"github.com/RetendoNetwork/pikmin-3/globals"
 )
 
 func registerCommonAuthenticationServerProtocols() {
