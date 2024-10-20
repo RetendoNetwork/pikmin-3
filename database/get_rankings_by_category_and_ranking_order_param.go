@@ -4,7 +4,7 @@ import (
 	"database/sql"
 
 	ranking_types "github.com/PretendoNetwork/nex-protocols-go/ranking/types"
-	"github.com/RetendoNetwork/pikmin-3/globals"
+	"github.com/PretendoNetwork/pikmin-3/globals"
 )
 
 func GetRankingsByCategoryAndRankingOrderParam(category uint32, rankingOrderParam *ranking_types.RankingOrderParam) (error, []*ranking_types.RankingRankData) {
