@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	pb "github.com/PretendoNetwork/grpc-go/account"
-	"github.com/PretendoNetwork/pikmin-3/database"
-	"github.com/PretendoNetwork/pikmin-3/globals"
+	"github.com/RetendoNetwork/pikmin-3/database"
+	"github.com/RetendoNetwork/pikmin-3/globals"
 	"github.com/PretendoNetwork/plogger-go"
 	"github.com/joho/godotenv"
 	"google.golang.org/grpc"
